@@ -26,6 +26,9 @@ Dependencies used in the _project_
 ### Multer
 [Multer](https://www.npmjs.com/package/multer) is primarily used for uploading files.
 
+### Chakra-ui
+[Chakra-ui](https://chakra-ui.com/) is a React component library that makes it easy to build the UI of an application or website.
+
 ### React-query
 [React-query](https://www.npmjs.com/package/react-query) is a hooks for fetching, caching and updating asynchronous data in React
 
